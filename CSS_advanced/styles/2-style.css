@@ -10,15 +10,15 @@ a {
     color: #161616;
 }
 
-[class="visually-hidden"] {
+.visually-hidden{
     display: none;
 }
 
-[class="card-category"] {
+.card-category {
     color: #D73953;
 }
 
-[class="section-tagline"] {
+.section-tagline {
     color: #D73953;
 }
 
