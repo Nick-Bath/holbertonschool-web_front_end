@@ -389,7 +389,7 @@ html {
     --section-tagline-transform: uppercase;
 
     --section-title-margin: 0;
-    --section-title-color: var(--color-black)
+    --section-title-color: var(--color-black);
 }
 
 h1, 
@@ -454,7 +454,7 @@ a:active {
     text-transform: var(--section-tagline-transform);
 }
 
-[class="container"] {
+.container {
     width: 960px;
     margin-left: auto;
     margin-right: auto;
